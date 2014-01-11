@@ -10,17 +10,30 @@ We'll be using a python backend, (which means I still gotta lean some crap)
 3. Be sure you have the following installed:
 
 #### NodeJS
+Need this for any of the Javascript server side work (NPM, grunt, Yo, etc)
 http://nodejs.org/
 
 #### NPM
-NPM: (Pretty sure it comes when you install node)
+Package Manager for NodeJS (Pretty sure it comes when you install node)
+
+#### Bower
+Javascript project dependency management, (huge deal)
+`npm install -g bower`
 
 #### Yeoman
+Web App Generator
 Install: `npm install -g yo`
 
- 4. Grunt: `npm install -g grunt`
- 5. AngularJS Generator: `npm install -g generator-angular`
- 6. Python Package Manager: https://pypi.python.org/pypi/pip
+#### Grunt
+Web App Project manager
+Install `npm install -g grunt`
+
+#### AngularJS YO Generator 
+What we'll be using for AngularJS routing
+AngularJS Generator: `npm install -g generator-angular`
+
+#### Python Package Manger PIP
+whatever we need for python
+https://pypi.python.org/pypi/pip
 
 
-checkerWebApp
